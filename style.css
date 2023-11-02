@@ -24,13 +24,10 @@ a{
     text-decoration: none;
     color: #fff;
 }
-<<<<<<< HEAD
 hr{
     background-color: #f9c91a;
 }
-=======
 
->>>>>>> 37223df (Edit css file)
 .text-color{
     color: #f9c91a;
 }
@@ -174,20 +171,13 @@ nav .fa-solid{
 }
 
 
-<<<<<<< HEAD
+
 #header .header-content .social-media a i{
     font-size: 2rem;
     padding: 10px;
     background-color: gray;
     border-radius: 50%;
 }
-=======
-
-
-
-
-
->>>>>>> 37223df (Edit css file)
 
 
 #header .header-content img{
@@ -249,10 +239,7 @@ nav .fa-solid{
         height: 3px;
         border: none;
         margin: 5px auto 0;
-<<<<<<< HEAD
-=======
-        background-color: #f9c91a;
->>>>>>> 37223df (Edit css file)
+
     }
 
     .about-content{
@@ -385,11 +372,9 @@ nav .fa-solid{
 #projects .work-list{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-<<<<<<< HEAD
+
     justify-content: center;
     align-items: center;
-=======
->>>>>>> 37223df (Edit css file)
     gap: 2rem;
     margin-top: 4rem;
 }
@@ -397,19 +382,13 @@ nav .fa-solid{
     position: relative;
     display: flex;
     justify-content: center;
-<<<<<<< HEAD
     align-items: flex-start;
-=======
->>>>>>> 37223df (Edit css file)
     width: 350px;
     height: 260px;
     border-radius: 20px;
     background-color: white;
-<<<<<<< HEAD
     transition: all 0.5s;
-=======
     transition: 0.5s;
->>>>>>> 37223df (Edit css file)
 }
 .work:hover{
     height: 400px;
@@ -423,10 +402,7 @@ nav .fa-solid{
     width: 300px;
     height: 220px;
     transition: 0.5s;
-<<<<<<< HEAD
     overflow: hidden;
-=======
->>>>>>> 37223df (Edit css file)
 }
 .work-list .work:hover img{
     top: -70px;
